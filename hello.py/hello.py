@@ -1,1 +1,13 @@
-print("這是我第一個github專案!")
+name=("jadaen")
+age=("22")
+city=("taipei")
+#以上為作業1
+fruit='apple','banana','guava'
+#以上是作業2
+print("我的名字叫",name)
+print("我今年",age,"歲")
+print("我最喜歡的城市是",city)
+print("我最喜歡的水果是",fruit)
+#以上為作業3
+mostlove=fruit[1]
+print("在這三者我最愛",mostlove)
