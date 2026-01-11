@@ -9,4 +9,3 @@ print("我今年",age,"歲")
 print("我最喜歡的城市是",city)
 print("我最喜歡的水果是",fruit)
 #以上為作業3
-print("SU3CL42U3")
