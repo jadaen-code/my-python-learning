@@ -1,0 +1,10 @@
+{
+  "editor.autoIndent": "none",
+  "editor.formatOnType": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.inlineSuggest.enabled": false,
+  "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "github.copilot.inlineSuggest.enable": false
+}

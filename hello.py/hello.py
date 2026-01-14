@@ -1,11 +1,19 @@
-name=("jadaen")
-age=("22")
-city=("taipei")
-#以上為作業1
-fruit='apple','banana','guava'
-#以上是作業2
-print("我的名字叫",name)
-print("我今年",age,"歲")
-print("我最喜歡的城市是",city)
-print("我最喜歡的水果是",fruit)
-#以上為作業3
+a=input("請輸入你要的符號+,-,*,/,**(第一個數字的平方加上第二個數字的平方)")
+b=float(input("請輸入第一個數字"))
+c=float(input("請輸入第二個數字"))
+if a=='+':
+    print(b+c)
+elif a=='-':
+    print(b-c)
+elif a=='*':
+    print(b*c)
+elif a == '/':
+ if c == 0:
+     print("⚠ 數學錯誤：除數不能為零！請重新輸入。")
+ else:
+     print(b / c)
+
+elif a=='**':
+    print((b**2)+(c**2))
+else:
+    print("請檢察輸入文本")
